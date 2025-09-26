@@ -1,0 +1,15 @@
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\bin\Debug\net8.0\BuclesCondicionales.exe
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\bin\Debug\net8.0\BuclesCondicionales.deps.json
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\bin\Debug\net8.0\BuclesCondicionales.runtimeconfig.json
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\bin\Debug\net8.0\BuclesCondicionales.dll
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\bin\Debug\net8.0\BuclesCondicionales.pdb
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.AssemblyInfoInputs.cache
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.AssemblyInfo.cs
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.sourcelink.json
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.dll
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\refint\BuclesCondicionales.dll
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.pdb
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\BuclesCondicionales.genruntimeconfig.cache
+C:\Users\CAMPUSFP\Desktop\Repo\ASPNET\BuclesCondicionales\BuclesCondicionales\obj\Debug\net8.0\ref\BuclesCondicionales.dll
