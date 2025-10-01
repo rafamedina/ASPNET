@@ -1,0 +1,5 @@
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO.AssemblyInfo.cs
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO.sourcelink.json

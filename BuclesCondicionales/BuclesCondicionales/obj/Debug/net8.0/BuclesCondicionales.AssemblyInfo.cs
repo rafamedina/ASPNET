@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuclesCondicionales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa1b898d31aa8370a6f5667caefef7e430328683")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0053201625acd7565578c55b1a61da30f63a35b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuclesCondicionales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuclesCondicionales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalizadorNumerico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b003eb2be820d34019f6aba8561023a087011a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0053201625acd7565578c55b1a61da30f63a35b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalizadorNumerico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalizadorNumerico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

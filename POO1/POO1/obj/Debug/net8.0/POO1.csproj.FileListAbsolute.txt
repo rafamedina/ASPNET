@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNET\POO1\POO1\bin\Debug\net8.0\POO1.exe
+C:\Repositorio\ASPNET\POO1\POO1\bin\Debug\net8.0\POO1.deps.json
+C:\Repositorio\ASPNET\POO1\POO1\bin\Debug\net8.0\POO1.runtimeconfig.json
+C:\Repositorio\ASPNET\POO1\POO1\bin\Debug\net8.0\POO1.dll
+C:\Repositorio\ASPNET\POO1\POO1\bin\Debug\net8.0\POO1.pdb
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.AssemblyInfo.cs
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.sourcelink.json
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.dll
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\refint\POO1.dll
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.pdb
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\POO1.genruntimeconfig.cache
+C:\Repositorio\ASPNET\POO1\POO1\obj\Debug\net8.0\ref\POO1.dll
