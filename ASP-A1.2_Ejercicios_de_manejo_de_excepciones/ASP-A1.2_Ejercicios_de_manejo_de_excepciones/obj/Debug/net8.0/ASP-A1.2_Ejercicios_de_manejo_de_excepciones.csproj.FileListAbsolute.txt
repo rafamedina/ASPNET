@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\bin\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.exe
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\bin\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.deps.json
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\bin\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.runtimeconfig.json
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\bin\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.dll
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\bin\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.pdb
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.AssemblyInfo.cs
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.sourcelink.json
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.dll
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\refint\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.dll
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.pdb
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.genruntimeconfig.cache
+C:\Repositorio\ASPNET\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\obj\Debug\net8.0\ref\ASP-A1.2_Ejercicios_de_manejo_de_excepciones.dll
