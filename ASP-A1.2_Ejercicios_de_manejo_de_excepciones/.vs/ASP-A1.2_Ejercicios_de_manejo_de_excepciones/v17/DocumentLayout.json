@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D6463319-E2B3-4CAF-B351-468E6712CBC1}|Ejercicio4\\Ejercicio4.csproj|c:\\repositorio\\aspnet\\asp-a1.2_ejercicios_de_manejo_de_excepciones\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6463319-E2B3-4CAF-B351-468E6712CBC1}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B5824D-9F18-4955-A8FF-686BFC3889F4}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\asp-a1.2_ejercicios_de_manejo_de_excepciones\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B5824D-9F18-4955-A8FF-686BFC3889F4}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{320D3A4F-7A56-4EFF-AECE-8D3DEFD4B61F}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\asp-a1.2_ejercicios_de_manejo_de_excepciones\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{320D3A4F-7A56-4EFF-AECE-8D3DEFD4B61F}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,18 +32,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:04:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:51:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
               "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio2\\Program.cs",
               "RelativeToolTip": "Ejercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T10:40:01.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-A1.2_Ejercicios_de_manejo_de_excepciones\\Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",

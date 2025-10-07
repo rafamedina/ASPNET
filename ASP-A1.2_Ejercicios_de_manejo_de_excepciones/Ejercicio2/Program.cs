@@ -11,6 +11,7 @@ class Ejercicio2
 
         if (diccionario.TryGetValue("Rafa", out int edad))
         {
+            Console.WriteLine("Rafa");
             Console.WriteLine(edad); 
         }
         else
