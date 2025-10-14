@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.sourcelink.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll

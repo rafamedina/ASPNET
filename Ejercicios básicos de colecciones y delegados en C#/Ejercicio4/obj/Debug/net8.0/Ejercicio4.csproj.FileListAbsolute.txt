@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\bin\Debug\net8.0\Ejercicio4.exe
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\bin\Debug\net8.0\Ejercicio4.deps.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\bin\Debug\net8.0\Ejercicio4.runtimeconfig.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\bin\Debug\net8.0\Ejercicio4.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\bin\Debug\net8.0\Ejercicio4.pdb
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.AssemblyInfo.cs
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.sourcelink.json
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\refint\Ejercicio4.dll
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.pdb
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\Ejercicio4.genruntimeconfig.cache
+C:\Repositorio\ASPNET\Ejercicios básicos de colecciones y delegados en C#\Ejercicio4\obj\Debug\net8.0\ref\Ejercicio4.dll
