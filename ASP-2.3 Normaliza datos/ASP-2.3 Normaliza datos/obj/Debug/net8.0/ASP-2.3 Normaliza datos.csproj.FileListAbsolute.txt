@@ -1,0 +1,15 @@
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\bin\Debug\net8.0\ASP-2.3 Normaliza datos.exe
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\bin\Debug\net8.0\ASP-2.3 Normaliza datos.deps.json
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\bin\Debug\net8.0\ASP-2.3 Normaliza datos.runtimeconfig.json
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\bin\Debug\net8.0\ASP-2.3 Normaliza datos.dll
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\bin\Debug\net8.0\ASP-2.3 Normaliza datos.pdb
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.AssemblyInfoInputs.cache
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.AssemblyInfo.cs
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.csproj.CoreCompileInputs.cache
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.sourcelink.json
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.dll
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\refint\ASP-2.3 Normaliza datos.dll
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.pdb
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ASP-2.3 Normaliza datos.genruntimeconfig.cache
+C:\Repositorio\ASPNET\ASP-2.3 Normaliza datos\ASP-2.3 Normaliza datos\obj\Debug\net8.0\ref\ASP-2.3 Normaliza datos.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D5A157-B823-495B-BC8D-6968B21139E9}|ASP-2.3 Normaliza datos\\ASP-2.3 Normaliza datos.csproj|c:\\repositorio\\aspnet\\asp-2.3 normaliza datos\\asp-2.3 normaliza datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D5A157-B823-495B-BC8D-6968B21139E9}|ASP-2.3 Normaliza datos\\ASP-2.3 Normaliza datos.csproj|solutionrelative:asp-2.3 normaliza datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A0C61D-2FD9-4598-93A6-944FB2377D2A}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\asp-2.3 normaliza datos\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A0C61D-2FD9-4598-93A6-944FB2377D2A}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE049927-FEDF-4F9D-8825-1C9AF6A2066F}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\asp-2.3 normaliza datos\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE049927-FEDF-4F9D-8825-1C9AF6A2066F}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:46:47.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:46:26.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\ASP-2.3 Normaliza datos\\Program.cs",
+              "RelativeDocumentMoniker": "ASP-2.3 Normaliza datos\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\ASP-2.3 Normaliza datos\\ASP-2.3 Normaliza datos\\Program.cs",
+              "RelativeToolTip": "ASP-2.3 Normaliza datos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:45:39.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
