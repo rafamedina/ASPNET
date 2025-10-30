@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcrudsencilla\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcrudsencilla\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcrudsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcsencilla\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|solutionrelative:webmvcsencilla\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcrudsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcrudsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E926F8-EF3B-4D6D-847E-88658B4A0E4B}|WebMVCRUDSencilla\\WebMVCRUDSencilla.csproj|solutionrelative:webmvcrudsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|solutionrelative:webmvcsencilla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|solutionrelative:webmvcsencilla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|solutionrelative:webmvcsencilla\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|c:\\repositorio\\aspnet\\webmvcsencilla\\webmvcsencilla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4EDB50-C593-44BE-8E84-CB0B77B84B70}|WebMVCSencilla\\WebMVCSencilla.csproj|solutionrelative:webmvcsencilla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Editar.cshtml",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Views\\Home\\Editar.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Editar.cshtml",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Views\\Home\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:28:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Crear.cshtml",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Views\\Home\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:27:18.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:24:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:23:57.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "RelativeToolTip": "WebMVCRUDSencilla\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:23:35.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebMVCSencilla\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebMVCSencilla\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T10:10:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVCSencilla\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVCSencilla\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T09:54:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebMVCSencilla\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebMVCSencilla\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:53:37.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "WebMVCSencilla\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Models\\Estudiante.cs",
+              "RelativeToolTip": "WebMVCSencilla\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:52:40.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVCSencilla\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\WebMVCSencilla\\WebMVCSencilla\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebMVCSencilla\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:47:58.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
