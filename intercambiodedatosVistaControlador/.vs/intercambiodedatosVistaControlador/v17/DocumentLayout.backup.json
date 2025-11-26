@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio3\\views\\home\\listadousuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\views\\home\\listadousuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C69FC-2AC3-452C-8072-4115A5448AF3}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\ejercicio2\\views\\home\\articulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14F13AB4-EFED-453B-B11F-C98C563B2842}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\views\\home\\articulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,118 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:17:06.156Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T10:13:30.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T10:13:26.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T10:06:03.606Z",
+              "WhenOpened": "2025-11-26T16:38:10.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Perfil.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "ListadoUsuarios.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Views\\Home\\ListadoUsuarios.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio3\\Views\\Home\\ListadoUsuarios.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Views\\Home\\ListadoUsuarios.cshtml",
+              "RelativeToolTip": "Ejercicio3\\Views\\Home\\ListadoUsuarios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T09:47:36.746Z",
+              "WhenOpened": "2025-11-26T16:37:56.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:36:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio3\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Ejercicio3\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:36:45.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio2\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Ejercicio2\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:31:06.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Program.cs",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Program.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Program.cs",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Ejercicio2\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:58:46.46Z",
+              "WhenOpened": "2025-11-26T16:29:17.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PerfilViewModel.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:24:31.053Z",
+              "DocumentIndex": 8,
+              "Title": "Articulo.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Articulo.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio2\\Views\\Home\\Articulo.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Articulo.cshtml",
+              "RelativeToolTip": "Ejercicio2\\Views\\Home\\Articulo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:14:04.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:11:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\Ejercicio2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T09:21:53.817Z",
+              "WhenOpened": "2025-11-26T16:09:11.93Z",
               "EditorCaption": ""
             }
           ]

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intercambiodedatosVistaControlador", "intercambiodedatosVistaControlador\intercambiodedatosVistaControlador.csproj", "{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{14F13AB4-EFED-453B-B11F-C98C563B2842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{004C69FC-2AC3-452C-8072-4115A5448AF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{14F13AB4-EFED-453B-B11F-C98C563B2842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14F13AB4-EFED-453B-B11F-C98C563B2842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14F13AB4-EFED-453B-B11F-C98C563B2842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004C69FC-2AC3-452C-8072-4115A5448AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004C69FC-2AC3-452C-8072-4115A5448AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004C69FC-2AC3-452C-8072-4115A5448AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004C69FC-2AC3-452C-8072-4115A5448AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
