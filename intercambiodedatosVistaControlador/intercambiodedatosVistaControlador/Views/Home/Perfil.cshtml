@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model PerfilViewModel
+<h1>@ViewBag.TituloPagina</h1>
+
+<h2>@Model.Nombre</h2>
+<p>Email: @Model.Email</p>
+
+@if (Model.EsAdmin)
+{
+    <p>¡Es un Admin!</p>
+}
+

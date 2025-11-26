@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|c:\\repositorio\\aspnet\\intercambiodedatosvistacontrolador\\intercambiodedatosvistacontrolador\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3617CFE8-5806-49A3-A5F8-25A44F84F3F7}|intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador.csproj|solutionrelative:intercambiodedatosvistacontrolador\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:17:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:13:30.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:13:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:06:03.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T09:47:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Program.cs",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Program.cs",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:58:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfilViewModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Models\\PerfilViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:24:31.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\intercambiodedatosVistaControlador\\intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "intercambiodedatosVistaControlador\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:21:53.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
