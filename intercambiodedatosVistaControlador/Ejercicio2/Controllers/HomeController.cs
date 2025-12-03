@@ -28,5 +28,30 @@ namespace Ejercicio2.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Articulo(int id)
+        {
+            ViewBag.Mensaje = $"Cargando artículo con ID: {id}";
+
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Login(Models.LoginModel model)
+        {
+            if (model.Usuario == "admin" && model.Contrasena == "1234")
+            {
+                return RedirectToAction("Index");
+            }
+
+            ViewBag.Error = "Usuario o contraseña incorrectos (Intenta: admin / 1234)";
+            return View(model);
+        }
+
     }
 }
