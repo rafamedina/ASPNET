@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|c:\\repositorio\\aspnet\\ejerciciotaghelpers\\ejerciciotaghelpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73E4ACB-B2DA-4190-AC54-362536A3635E}|EjercicioTagHelpers\\EjercicioTagHelpers.csproj|solutionrelative:ejerciciotaghelpers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EjercicioTagHelpers\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:12:08.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EjercicioTagHelpers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:11:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EjercicioTagHelpers\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:10:14.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "EjercicioTagHelpers\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:07:17.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EjercicioTagHelpers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T09:04:49.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "EjercicioTagHelpers\\Models\\Movie.cs",
+              "ToolTip": "C:\\Repositorio\\ASPNET\\EjercicioTagHelpers\\EjercicioTagHelpers\\Models\\Movie.cs",
+              "RelativeToolTip": "EjercicioTagHelpers\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:02:44.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
